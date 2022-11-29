@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miamib34ch)](https://github.com/miamib34ch/github-readme-stats)
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **miamib34ch/miamib34ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
