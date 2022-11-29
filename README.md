@@ -2,6 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=miamib34ch)](https://github.com/miamib34ch/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miamib34ch)](https://github.com/miamib34ch/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=miamib34ch))
 <!--
 **miamib34ch/miamib34ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
