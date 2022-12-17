@@ -5,8 +5,8 @@
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - Repository designations:
   - HSE - university projects
-  2. YP - Yandex Practicum projects on iOS
-  3. Simply named project - pet projects
+  - YP - Yandex Practicum projects on iOS
+  - Simply named project - pet projects
 - ⚡ Fun:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
