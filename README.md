@@ -8,6 +8,7 @@
   - YP - Yandex Practicum projects on iOS
   - Simply named project - pet projects
 - ⚡ Fun: 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
