@@ -4,7 +4,7 @@
 - 📱 I'm also studying development on iOS in advanced training courses from Yandex Practicum
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - Repository designations:
-  1. HSE - university projects
+  - HSE - university projects
   2. YP - Yandex Practicum projects on iOS
   3. Simply named project - pet projects
 - ⚡ Fun:
