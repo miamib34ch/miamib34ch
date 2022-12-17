@@ -4,9 +4,9 @@
 - 📱 I'm also studying development on iOS in advanced training courses from Yandex Practicum
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - Repository designations:
-> HSE - university projects
-> YP - Yandex Practicum projects on iOS
-> Simply named project - pet projects
+1. HSE - university projects
+2. YP - Yandex Practicum projects on iOS
+3. Simply named project - pet projects
 - ⚡ Fun:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
