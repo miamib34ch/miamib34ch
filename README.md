@@ -1,7 +1,7 @@
 ### Hello there 👋
 - 😄 My name is Bogdan Polygalov
 - 📖 I’m currently studying at the university on the undergraduate program "Software Engineering"
-- 📱 I'm also studying development on iOS in advanced training courses from Yandex Practicum
+- 📱 I also completed advanced training courses from Yandex Practicum on iOS development
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - 📍 Repository designations:
   - HSE - university projects
