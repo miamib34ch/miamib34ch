@@ -6,6 +6,7 @@
 - 📍 Repository designations:
   - HSE - university projects
   - YP - Yandex Practicum projects on iOS
+  - Starting with the company name - test assignments
   - Simply named project - pet projects
 - ⚡ Fun: 
 
