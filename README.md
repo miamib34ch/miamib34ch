@@ -1,7 +1,7 @@
 ### Hello there 👋
 - 😄 My name is Bogdan Polygalov
 - 📱 I'm currently working as an Swift iOS developer
-- 📖 At the same time, I am graduating from the university
+- 📖 At the same time, I am graduating from the university  
       with a bachelor’s degree program in Software Engineering
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - 📍 Repository designations:
