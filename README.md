@@ -1,7 +1,8 @@
 ### Hello there 👋
 - 😄 My name is Bogdan Polygalov
 - 📱 I'm currently working as an Swift iOS developer
-- 📖 At the same time, I am graduating from the university with a bachelor’s degree program in Software Engineering
+- 📖 At the same time, I am studying at the university in the Master's program in Business Analytics
+- 🎓 Before that I graduated with a Bachelor's degree in Software Engineering
 - 📫 How to reach me: bogdan.polygalov@gmail.com
 - 📍 Repository designations:
   - HSE - university projects
