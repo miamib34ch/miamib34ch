@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 
 - 😄 My name is **Bogdan Polygalov**
 - 🎓 I hold a bachelor's degree in **Software Engineering** and a master's degree in **Business Analytics**
 - 💻 I'm currently working as a **developer**
